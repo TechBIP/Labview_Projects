@@ -1,8 +1,5 @@
 # Labview_Projects
 Welcome to the LabVIEW Project Repository!
-This repository contains various LabVIEW projects showcasing the versatility and power of LabVIEW software in circuital designing, signal processing and modulation techniques.
-## Introduction
-# LabView Software Related Projects
 
 ## Introduction
 LabVIEW, developed by National Instruments, is a powerful system design and development platform that is widely used for various applications, including control systems and data acquisition. This README provides an overview of LabVIEW software and its significance in project development.
@@ -25,7 +22,7 @@ LabView software, introduced by National Instruments, is essential for LabVIEW p
 ## Experiments
 
 ### 1. Amplitude Shift Keying - Method 1
-[Description goes here...]
+[Amplitude Shift Keying (ASK) is a digital modulation technique where the amplitude of the carrier signal is varied to transmit digital data. Method 1 refers to a specific approach in ASK modulation, and this experiment explores its implementation in LabVIEW.]
 
 ### 2. Amplitude Shift Keying - Method 2
 [Description goes here...]
