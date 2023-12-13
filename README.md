@@ -53,5 +53,7 @@ Pulse Amplitude Modulation (PAM) is a form of signal modulation where the amplit
 ### 10. Quadrature Phase Shift Keying (QPSK)
 QPSK is a more advanced form of Phase Shift Keying that involves four different phase shifts to represent digital data. This experiment in LabVIEW demonstrates the intricacies of implementing QPSK modulation for communication systems.
 
-## Conclusion
-In conclusion, these LabVIEW projects showcase my passion for circuit design and LabVIEW software. The exploration of various modulation techniques has enhanced my understanding of signal processing and communication systems. Undertaking such projects has been a rewarding journey in the world of LabVIEW.
+## Contributions
+Contributions are welcome. if you have anything to contribute, please submit a pull request. Make sure to follow the guidelines for the same.
+
+HAPPY EXPERIMENTING!!
